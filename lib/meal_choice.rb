@@ -7,4 +7,4 @@ end
 
 
 
-meal_choice("carrot", "corn", "pork");
+#meal_choice("carrot", "corn", "pork");
