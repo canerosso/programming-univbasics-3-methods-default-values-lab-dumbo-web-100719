@@ -7,4 +7,4 @@ end
 
 
 
-meal_choice(veg1, veg2, protein);
+meal_choice("carrot", "corn", protein);
