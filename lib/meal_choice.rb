@@ -7,4 +7,5 @@ end
 
 
 
-return meal_choice("carrot", "corn", "meat");
+
+meal_choice("carrot", "corn", protein);
