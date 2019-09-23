@@ -7,4 +7,4 @@ end
 
 
 
-meal_choice("carrot", "corn", protein="meat");
+meal_choice("carrot", "corn", ${protein});
